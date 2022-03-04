@@ -4,17 +4,17 @@
 */
 
 body {
-  background-color: LightCyan;
+  background-color: LightPink;
 }
 
 h1 {
-  background-color: rgb(175, 238, 238);
-  color: hsl(182, 25%, 50%);
+  background-color: rgb(219, 112, 147);
+  color: hsl(350, 100%, 88%);
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: #AFEEEE;
-  color: hsl(207, 44%, 49%);
+  background-color: #ffc7da;
+  color: rgb(219, 112, 147);
 }
